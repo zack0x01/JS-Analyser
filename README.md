@@ -58,7 +58,7 @@ A powerful, modern web application for analyzing JavaScript files to detect sens
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/js-analysis.git
+git clone https://github.com/zack0X01/js-analysis.git
 cd js-analysis
 ```
 
