@@ -63,8 +63,8 @@ A powerful, modern web application for analyzing JavaScript files to detect sens
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/zack0X01/js-analysis
-cd js-analysis
+git clone https://github.com/zack0x01/JS-Analyser
+cd JS-Analyser
 ```
 
 2. **Install dependencies**
@@ -199,4 +199,3 @@ This tool is for **authorized security testing and educational purposes only**. 
 ---
 
 ⭐ If you find this tool useful, please give it a star on GitHub!
-
